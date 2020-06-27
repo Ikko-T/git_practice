@@ -1,1 +1,1 @@
-puts "昼にお菓子を頂きました"
+1.upto(20).each { |n| puts n }
